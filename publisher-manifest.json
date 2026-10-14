@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "69c842f4c74bef1a03366828",
+  "owner": "qpykbskbt",
+  "repo": "page-43825bf988ffa328c666aaf6",
+  "title": "GPT代充",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "43825bf988ffa328c666aaf6",
+      "a": "GPT代充",
+      "b": "",
+      "entity": "GPT代充",
+      "brand": "GPT代充",
+      "separator": "",
+      "path": "index.html",
+      "hash": "da4ea978543d698d115354cb530b7efab7d33c4d31ca11ff022500484e3023bd",
+      "content": {
+        "keyword1": "GPT代充",
+        "keyword2": "",
+        "primary_entity": "GPT代充",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT代充提供稳定高速VPN加速服务，每月GB流量支持，解锁流媒体多设备在线。官网下载客户端，享受安全加速体验。",
+          "AI_DESCRIPTION": "GPT代充提供稳定高速VPN加速服务，每月GB流量支持，解锁流媒体多设备在线。官网下载客户端，享受安全加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #f8f9fa;\n            --text: #1f2937;\n            --primary: #6b46c1;\n            --accent: #e0e7ff;\n            --card: #ffffff;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--bg);\n            color: var(--text);\n            line-height: 1.6;\n            font-size: 16px;\n        }\n        .container { max-width: 1280px; margin: 0 auto; padding: 0 20px; }\n        nav {\n            background: #fff;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.05);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .nav-content {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 0;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--primary);\n            text-decoration: none;\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n            list-style: none;\n        }\n        .nav-links a {\n            text-decoration: none;\n            color: var(--text);\n            font-weight: 500;\n            transition: color 0.3s;\n        }\n        .nav-links a:hover { color: var(--primary); }\n        .nav-actions {\n            display: flex;\n            gap: 1rem;\n        }\n        .btn {\n            padding: 0.75rem 1.5rem;\n            border-radius: 9999px;\n            font-weight: 600;\n            text-decoration: none;\n            display: inline-flex;\n            align-items: center;\n            gap: 0.5rem;\n            transition: all 0.3s;\n        }\n        .btn-primary {\n            background: var(--primary);\n            color: #fff;\n        }\n        .btn-primary:hover { background: #573994; }\n        .btn-outline {\n            background: transparent;\n            border: 2px solid var(--primary);\n            color: var(--primary);\n        }\n        .hero {\n            background: linear-gradient(135deg, #6b46c1, #a78bfa);\n            color: #fff;\n            padding: 4rem 0 3rem;\n            text-align: center;\n        }\n        .hero h1 {\n            font-size: 3rem;\n            margin-bottom: 1rem;\n        }\n        .hero p {\n            font-size: 1.25rem;\n            opacity: 0.95;\n            max-width: 600px;\n            margin: 0 auto 2rem;\n        }\n        .hero-buttons {\n            display: flex;\n            gap: 1rem;\n            justify-content: center;\n            flex-wrap: wrap;\n        }\n        .section {\n            padding: 4rem 0;\n        }\n        .section-alternate {\n            background: #fff;\n        }\n        .intro {\n            display: flex;\n            gap: 3rem;\n            align-items: center;\n        }\n        .intro-text {\n            flex: 1;\n        }\n        .intro-text h2 {\n            font-size: 2.25rem;\n            margin-bottom: 1.5rem;\n        }\n        .intro-text p {\n            font-size: 1.1rem;\n            color: #4b5563;\n        }\n        .intro-stats {\n            display: flex;\n            gap: 2rem;\n            margin-top: 2rem;\n        }\n        .stat {\n            text-align: center;\n        }\n        .stat-number {\n            font-size: 2.5rem;\n            font-weight: 700;\n            color: var(--primary);\n        }\n        .plans {\n            background: #f8f9fa;\n        }\n        .plans h2 {\n            text-align: center;\n            font-size: 2.25rem;\n            margin-bottom: 2rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 2rem;\n        }\n        .plan-card {\n            background: var(--card);\n            border-radius: 16px;\n            padding: 2rem;\n            box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);\n            transition: transform 0.3s;\n        }\n        .plan-card:hover {\n            transform: translateY(-8px);\n        }\n        .plan-card h3 {\n            font-size: 1.5rem;\n            margin-bottom: 0.5rem;\n        }\n        .plan-price {\n            font-size: 2.25rem;\n            font-weight: 700;\n            color: var(--primary);\n            margin-bottom: 1rem;\n        }\n        .annual {\n            color: #64748b;\n            font-size: 0.95rem;\n        }\n        .plan-card.featured {\n            border: 3px solid var(--primary);\n            position: relative;\n        }\n        .plan-card.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 24px;\n            background: var(--primary);\n            color: #fff;\n            padding: 4px 12px;\n            border-radius: 9999px;\n            font-size: 0.75rem;\n            font-weight: 600;\n        }\n        .plan-features {\n            margin: 1.5rem 0;\n        }\n        .plan-features li {\n            padding: 0.5rem 0;\n            display: flex;\n            align-items: center;\n            gap: 0.75rem;\n        }\n        .plan-features li::before {\n            content: \"✓\";\n            color: var(--primary);\n        }\n        .scenarios {\n            background: #f8f9fa;\n        }\n        .scenario-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .scenario-card {\n            background: #fff;\n            padding: 1.5rem;\n            border-radius: 12px;\n            text-align: center;\n        }\n        .operation {\n            background: var(--card);\n        }\n        .faq {\n            background: #f8f9fa;\n        }\n        .faq h2 {\n            text-align: center;\n            font-size: 2.25rem;\n            margin-bottom: 2rem;\n        }\n        details {\n            background: #fff;\n            margin-bottom: 1rem;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);\n        }\n        summary {\n            padding: 1.25rem 1.5rem;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary::-webkit-details-marker { display: none; }\n        summary::after {\n            content: \"▶\";\n            float: right;\n            transition: transform 0.3s;\n        }\n        details[open] summary::after {\n            transform: rotate(90deg);\n        }\n        .faq-content {\n            padding: 0 1.5rem 1.5rem;\n            color: #4b5563;\n        }\n        footer {\n            background: #111827;\n            color: #9ca3af;\n            padding: 3rem 0 2rem;\n        }\n        .footer-content {\n            display: flex;\n            justify-content: space-between;\n            align-items: flex-start;\n            flex-wrap: wrap;\n            gap: 2rem;\n        }\n        .footer-links {\n            display: flex;\n            gap: 2rem;\n            flex-wrap: wrap;\n        }\n        .footer-links a {\n            color: #9ca3af;\n            text-decoration: none;\n            margin-bottom: 0.5rem;\n        }\n        .footer-links a:hover { color: #fff; }\n        .friend-links {\n            margin-top: 2rem;\n        }\n        .friend-links a {\n            margin-right: 1rem;\n            color: #6b46c1;\n        }\n        @media (max-width: 768px) {\n            .nav-links {\n                display: none;\n                flex-direction: column;\n                position: absolute;\n                top: 100%;\n                left: 0;\n                width: 100%;\n                background: #fff;\n                padding: 1rem;\n                box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1);\n            }\n            .nav-links.active {\n                display: flex;\n            }\n            .intro {\n                flex-direction: column;\n                text-align: center;\n            }\n            .hero h1 {\n                font-size: 2.5rem;\n            }\n            .hero-buttons {\n                flex-direction: column;\n                align-items: center;\n            }\n            .plans-grid {\n                grid-template-columns: 1fr;\n            }\n            .scenario-grid {\n                grid-template-columns: 1fr;\n            }\n        }\n    </style>\n\n\n    <nav>\n        <div class=\"nav-content container\">\n            <a href=\"#\" class=\"logo\">GPT代充</a>\n            <ul class=\"nav-links\">\n                <li><a href=\"#plans\">套餐</a></li>\n                <li><a href=\"#faq\">FAQ</a></li>\n                <li><a href=\"#download\">下载</a></li>\n            </ul>\n            <div class=\"nav-actions\">\n                <a href=\"#plans\" class=\"btn btn-outline\">查看套餐</a>\n                <a href=\"#download\" class=\"btn btn-primary\">客户端下载</a>\n            </div>\n        </div>\n    </nav>\n\n    <main>\n        \n        <section class=\"hero\">\n            <div class=\"container\">\n                <h1>GPT代充</h1>\n                <p>稳定高速VPN加速器 • 每月GB流量 • 解锁全球流媒体</p>\n                <div class=\"hero-buttons\">\n                    <a href=\"#plans\" class=\"btn btn-primary\">立即订阅</a>\n                    <a href=\"#download\" class=\"btn btn-outline\">客户端下载</a>\n                </div>\n            </div>\n        </section>\n\n        \n        <section class=\"intro section-alternate container\">\n            <div class=\"intro-text\">\n                <h2>为什么选择GPT代充？</h2>\n                <p>我们提供专业的VPN加速服务，帮助您轻松突破网络限制，享受稳定高速的网络体验。无论家庭多人使用还是企业团队需求，都能找到最适合的方案。</p>\n                <div class=\"intro-stats\">\n                    <div class=\"stat\">\n                        <div class=\"stat-number\">100GB+</div>\n                        <div>每月流量</div>\n                    </div>\n                    <div class=\"stat\">\n                        <div class=\"stat-number\">5台</div>\n                        <div>设备支持</div>\n                    </div>\n                    <div class=\"stat\">\n                        <div class=\"stat-number\">7x24</div>\n                        <div>优先客服</div>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        \n        <section class=\"plans container\">\n            <h2>选择适合您的套餐</h2>\n            <div class=\"plans-grid\">\n                \n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn btn-outline\">立即订阅</a>\n                </div>\n\n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn btn-primary\">立即订阅</a>\n                </div>\n\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                    <a href=\"#download\" class=\"btn btn-outline\">立即订阅</a>\n                </div>\n            </div>\n        </section>\n\n        \n        <section class=\"scenarios container\">\n            <h2>使用场景</h2>\n            <div class=\"scenario-grid\">\n                <div class=\"scenario-card\">\n                    <h3>家庭多人在线</h3>\n                    <p>支持最多20台设备同时在线，家庭共享无压力。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>游戏加速</h3>\n                    <p>IPLC专线优化，降低延迟，畅玩在线游戏。</p>\n                </div>\n                <div class=\"scenario-card\">\n                    <h3>海外流媒体</h3>\n                    <p>全节点原生解锁Netflix、YouTube等平台内容。</p>\n                </div>\n            </div>\n        </section>\n\n        \n        <section class=\"operation container\">\n            <h2>简单操作指南</h2>\n            <ol>\n                <li>访问官网，点击「客户端下载」获取最新版本</li>\n                <li>下载后一键安装并启动客户端</li>\n                <li>登录账号，选择对应套餐激活</li>\n                <li>立即享受高速网络加速与流媒体解锁</li>\n            </ol>\n        </section>\n\n        \n        <section class=\"faq container\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>GPT代充是什么？</summary>\n                <div class=\"faq-content\">GPT代充是专业的VPN加速器服务，提供稳定高速线路，支持每月GB流量，帮助用户解锁全球流媒体和加速网络访问。</div>\n            </details>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <div class=\"faq-content\">基础版适合个人使用，旗舰版适合家庭多人，团队版适合企业定制需求。</div>\n            </details>\n            <details>\n                <summary>客户端如何下载？</summary>\n                <div class=\"faq-content\">访问官网导航栏「客户端下载」即可获取最新版本，一键安装使用。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"faq-content\">基础版支持3台，旗舰版支持5台，团队版支持20台设备同时在线。</div>\n            </details>\n            <details>\n                <summary>流量超出后怎么办？</summary>\n                <div class=\"faq-content\">超出部分可能限速，但基础流量已足够日常使用，升级更高套餐可获得更多流量。</div>\n            </details>\n            <details>\n                <summary>支持流媒体解锁吗？</summary>\n                <div class=\"faq-content\">旗舰版及以上提供全节点原生解锁，Netflix、Disney+等平台均可畅享。</div>\n            </details>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        <div class=\"footer-content container\">\n            <div>\n                <a href=\"#\" class=\"logo\">GPT代充</a>\n                <p>稳定VPN加速 • 机场订阅 • 客户端下载</p>\n            </div>\n            <div class=\"footer-links\">\n                <a href=\"#\">官网</a>\n                <a href=\"#\">套餐</a>\n                <a href=\"#\">下载</a>\n                <a href=\"#\">FAQ</a>\n            </div>\n            <div class=\"friend-links\">\n                <a href=\"#\">合作伙伴</a>\n                <a href=\"#\">友情链接</a>\n            </div>\n        </div>\n    </footer>\n\n",
+          "hash": "8211fa63ad7e558ed193668ee6350d96b573e57c1993441a3546beb7f01aea78",
+          "seo": {
+            "title": "GPT代充 - 高速VPN加速器 机场订阅 客户端下载 官网",
+            "keywords": "GPT代充, VPN加速器, 机场, 订阅, 客户端下载, 高速VPN, 流量加速",
+            "description": "GPT代充提供稳定高速VPN加速服务，每月GB流量支持，解锁流媒体多设备在线。官网下载客户端，享受安全加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hte22.cn",
+    "host": "p-d86e168482.hte22.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "94b0496a2604f5997ae4b7266d4e2072c757019cb062913c7a9b71a0e8513541",
+    "sitemap.xml": "150b8e91659dee5642c76d466d565296a6bad2bc9dfab2624294e4ae5079e902",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "addbb3e0595aeb27ff75e2a978911949571bda2fcf1b6fb8758f8b365787414d",
+    "robots.txt": "1f3500f44bac9b9b4c7fe6db01f522b466dbdac9ad8bebc992fe2b4990fb36f5",
+    "b629fe8a4f9a5f20fde2a305ddb008a0.txt": "fff7f63af432018af50698a49c20803cded99cd21aacddb01e8dc85b09d669a6"
+  },
+  "revision": "ce15462af9a43cf1e24be1f87493b9126d7b7b6f93b2dcb6930b1a53ffb9b2cf"
+}
